@@ -21,7 +21,7 @@ public class BubbleSort {
                         arr[i] = arr[i + 1];
                         arr[i + 1] = buf;
                     }
-                    fw.append(Arrays.toString(arr) + "\n");
+                    fw.append(Arrays.toString(arr)).append("\n");
                 }
             }
         } catch (IOException e) {

@@ -1,6 +1,7 @@
 package lesson2;
 
 import homework2.BubbleSort;
+import homework2.StudentsSubect;
 import task.Task1;
 import task.Task2;
 import task.Task3;
